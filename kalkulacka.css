@@ -1,0 +1,48 @@
+body {
+    background-color: #0f172a;
+    color: #e5e7eb;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+#formular {
+    background-color: #1e293b;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 12px;
+}
+
+input {
+    width: 120px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 1.2rem;
+    border-radius: 6px;
+    border: none;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #38bdf8;
+    color: black;
+}
+
+button:hover {
+    background-color: #0ea5e9;
+}
+
+#vysledek {
+    margin: 20px auto;
+    font-size: 1.5rem;
+    min-height: 2em;
+}
